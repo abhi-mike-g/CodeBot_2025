@@ -1,1 +1,1 @@
-# CodeBot_2025
+# ARPath (Augmented Reality for Pathology)
